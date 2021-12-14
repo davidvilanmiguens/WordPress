@@ -1,0 +1,67 @@
+/*
+Theme Name: New Funcy CAPITANO
+Theme URI: http://wordpress.org/themes/newFuncy
+Author: Capi
+Author URI: https://github.com/bmartinezparedes
+Description: Practica para clase de Damian
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Capi, mi10, pandillaPatatilla
+Text Domain: nuwfuncy
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.indexx{
+    background: #130623;
+}
+
+
+#prueba{
+    color: #ffffff;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.error{
+    background-image: url("/imagenes/Error.jpg");
+    color: #00ffcd;
+}
+.static{
+    position: static;
+}
+.absolute{
+    position: absolute;
+    top: 70px;
+    right: 0;
+    width: 170px;
+    height: 90px;
+    color: red;
+}
+.imagen{
+    margin-right: 10px;
+}
+.entry{
+    display:flex;
+    flex-direction: row ;
+}
+.border{
+
+}
+.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #e600ff;
+    border: 2px solid #00ffc4;
+}
+.relative{
+    position: relative;
+    left: 30px;
+}
+.contenido{
+    padding: 0;
+}
